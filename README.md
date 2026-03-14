@@ -1,4 +1,4 @@
-# React ArcGIS Map Demo
+## React + ArcGIS JavaScript API Map Component
 
 Interactive mapping component built with **React** and the **ArcGIS JavaScript API**.
 
