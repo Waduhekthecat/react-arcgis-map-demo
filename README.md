@@ -3,6 +3,7 @@
 Interactive mapping component built with **React** and the **ArcGIS JavaScript API**.
 
 ![ArcGIS Map Component](./arcgis-map-component-screenshot.png)
+*Example map rendered using the ArcGIS JavaScript API inside a React component.*
 
 ## Overview
 
